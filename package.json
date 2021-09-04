@@ -1,0 +1,12 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "MEGIDRAMON.js",
+  "scripts": {
+  "start": "🌀☣️🔥⋰M⁂E⚙G✠I۝☬D۝R✠A⚙M⁂O⋱N🔥☣️🌀.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
